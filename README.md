@@ -1,6 +1,5 @@
 # eLife-peer-review-random-external-factors-study
 
-# elife-analysis
 This is the code and data used to conduct the analysis for the paper titled "How random is the review outcome? A systematic study of the impact of external factors on eLife peer review". 
 
 ## Abstract
