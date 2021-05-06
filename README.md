@@ -10,11 +10,6 @@ This is the code and data used to conduct the analysis for the paper titled "How
 ## Usage
 ### 0. Dependencies
 
-- [Python](<https://www.python.org/>) == 3.7
-- [PyTorch](<https://pytorch.org/get-started/locally/>) == 1.4.0
-- [transformers](<https://github.com/huggingface/transformers/tree/v2.0.0>) == 2.0.0
-- [torch-geometric](https://pytorch-geometric.readthedocs.io/) ==1.6.0
-
 Run the following commands to install the dependencies:
 ```bash
 
